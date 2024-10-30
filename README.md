@@ -13,3 +13,4 @@
 
 # 🚗🔧 Mechanic Hobbyist
 # 🖼️ Wallpaper & PPF Entrepreneur 
+# 📚 Self Taught Since High School
