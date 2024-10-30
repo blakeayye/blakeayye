@@ -8,7 +8,5 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blakeayye&layout=compact)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=blakeayye)
-
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=blakeayye&theme=dracula)
