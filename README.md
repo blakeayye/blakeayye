@@ -11,6 +11,6 @@
  
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=blakeayye&theme=radical)
 
+# 💻 FiveForge React Developer
 # 🚗🔧 Mechanic Hobbyist
 # 🖼️ Wallpaper & PPF Entrepreneur 
-# 📚 Self Taught Since High School
