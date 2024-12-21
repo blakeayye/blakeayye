@@ -1,8 +1,3 @@
-# 👋 Hi, I'm Blake!
-
-
-
-
 
 <h1 align="center">
   <a href="https://blakeayye.github.io/ProfileDocs/" target="_blank">
